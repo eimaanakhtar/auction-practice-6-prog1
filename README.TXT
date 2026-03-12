@@ -23,3 +23,7 @@ How to start this project:
     + Enter a bid for the lot by calling the makeABid method on
       the Auction object. Pass the number of the lot, the Person
       who is bidding, and the amount of the bid.
+
+Q5: Removing a lot from an an ArrayList shifts the remaining lots position. This will cause the method getLot to access the wrong index and return the wrong data.
+
+Q8: ArrayList and LinkedList sure, common methods like add, remove, get, size. LinkedList has extra methods like at first and removal last. ArrayList is better for accessing items by index while LinkedList is better for adding or removing from the front or the end.
